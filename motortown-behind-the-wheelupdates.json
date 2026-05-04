@@ -1,0 +1,15 @@
+[
+    {
+        "UpdateStageName": "Getting from SteamCMD",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "2223650",
+        "UpdateSourceArgs": "2223650",
+        "UpdateSourceVersion": "TEST",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "ForceDownloadPlatform": "Windows",
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
